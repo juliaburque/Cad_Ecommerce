@@ -7,7 +7,7 @@
    - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
    - [Métodos PHP Utilizados](#m%C3%A9todos-php-utilizados)
    - [Fontes Consultadas](#-fontes-consultadas)
-   - [Autores](#autores)
+   - [Autores](#%EF%B8%8F-autores)
   
  
  
