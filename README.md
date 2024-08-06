@@ -3,7 +3,7 @@
 ## Índice
    - [Descrição](#-descri%C3%A7%C3%A3o)
    - [Introdução](#-introdu%C3%A7%C3%A3o)
-   - [Funcionalidades](#funcionalidades)
+   - [Funcionalidades](#-funcionalidades)
    - [Tecnologias Utilizadas](#tecnologias-utilizadas)
    - [Fontes Consultadas](#fontes-consultadas)
    - [Autores](#autores)
