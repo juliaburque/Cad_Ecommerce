@@ -5,9 +5,10 @@
    - [Introdução](#-introdu%C3%A7%C3%A3o)
    - [Funcionalidades](#-funcionalidades)
    - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-   - [Fontes Consultadas](#fontes-consultadas)
-   - [Autores](#autores)
    - [Métodos PHP Utilizados](#m%C3%A9todos-php-utilizados)
+   - [Fontes Consultadas](#-fontes-consultadas)
+   - [Autores](#autores)
+  
  
  
 # ✅ Descrição 
